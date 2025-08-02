@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				chart: {
+					bull: 'hsl(var(--chart-bull))',
+					bear: 'hsl(var(--chart-bear))',
+					grid: 'hsl(var(--chart-grid))',
+					axis: 'hsl(var(--chart-axis))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
